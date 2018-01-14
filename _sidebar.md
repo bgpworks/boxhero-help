@@ -3,5 +3,6 @@
   - [바코드 스캐너/프린터](/device.md)
 - 고급기능
   - [SKU 사용](/sku.md)
-- [결제](/payment.md)
+- 결제
+  - [결제](/payment.md)
 - [자주 묻는 질문](faq.md)
