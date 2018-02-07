@@ -1,6 +1,13 @@
-- 시작하기
-  - [처음 사용하기](/getting-started.md)
-  - [바코드 스캐너/프린터](/device.md)
+- [HOME](/)
+- [처음 사용하기](/getting-started.md) 
+- 기본 기능
+  - [제품 추가정보](/basic/attr.md)
+  - [팀 멤버](/basic/member.md)
+  - [가져오기/내보내기](/basic/excel.md)
 - 고급기능
-  - [SKU 사용](/sku.md)
-- [자주 묻는 질문](faq.md)
+  - [바코드 스캐너](/advanced/scanner.md)
+  - [바코드 프린터](/advanced/printer.md)
+  - [API](/advanced/api.md)
+- 기타
+  - [자주 묻는 질문](/etc/faq.md)
+  - [고객센터](/etc/support.md)
